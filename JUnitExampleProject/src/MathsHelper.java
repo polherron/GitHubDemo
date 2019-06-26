@@ -6,6 +6,7 @@ public class MathsHelper {
 		testAdd();
 	}
 	
+	//manual test of add method
 	public static void testAdd()
 	{
 		int x = 5;
