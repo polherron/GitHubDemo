@@ -48,6 +48,13 @@ public class MathsHelper {
 		return i * j;
 	}
 	
+	public static double divide(double i, double j)
+	{
+		return i/j;
+	}
+	
+	
+	
 	
 	
 	
